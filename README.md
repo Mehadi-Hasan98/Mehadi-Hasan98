@@ -32,8 +32,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehadi-hasan98&show_icons=true&locale=en&layout=compact" alt="mehadi-hasan98" /></p>
 
+#Numbers
+
 ![Mehadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehadi-hasan98&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehadi-hasan98&show_icons=true&locale=en" alt="mehadi-hasan98" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehadi-hasan98&" alt="mehadi-hasan98" /></p>
+
+
