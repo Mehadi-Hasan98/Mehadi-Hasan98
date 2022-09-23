@@ -32,7 +32,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehadi-hasan98&show_icons=true&locale=en&layout=compact" alt="mehadi-hasan98" /></p>
 
-#Numbers
+
+
+<h1 align="center">Numbers</h1>
 
 ![Mehadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehadi-hasan98&show_icons=true&theme=radical)
 
