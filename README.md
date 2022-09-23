@@ -34,7 +34,7 @@
 
 
 
-<h1 align="center">Numbers</h1>
+
 
 ![Mehadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehadi-hasan98&show_icons=true&theme=radical)
 
