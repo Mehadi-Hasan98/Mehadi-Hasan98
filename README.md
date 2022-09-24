@@ -36,7 +36,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehadi-hasan98&show_icons=true&locale=en&layout=compact&theme=radical" alt="mehadi-hasan98" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadi-Hasan98&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadi-Hasan98&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
