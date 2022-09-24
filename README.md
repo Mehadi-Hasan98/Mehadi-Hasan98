@@ -29,11 +29,19 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M8sXCwbZCftwqDcIX1epSksN9-ZL62L0/view?usp=sharing](https://drive.google.com/file/d/1M8sXCwbZCftwqDcIX1epSksN9-ZL62L0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehadihasan1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehadihasan1998" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:17850361" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17850361" height="30" width="40" /></a>
-<a href="https://fb.com/brownfish.shuv0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brownfish.shuv0" height="30" width="40" /></a>
-</p>
+<div id="badges">
+  <a href="(https://linkedin.com/in/mehadihasan1998)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="(https://fb.com/brownfish.shuv0)">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+
+
+
+
 
 
 
