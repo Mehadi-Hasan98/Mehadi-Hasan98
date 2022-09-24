@@ -43,3 +43,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehadi-hasan98&theme=radical" alt="mehadi-hasan98" /></p>
 
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mehadi-Hasan98)  
+
+
