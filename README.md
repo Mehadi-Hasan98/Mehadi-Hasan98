@@ -38,7 +38,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **mehadihasan.phy@gmail.com**
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/mehadihasan1998")
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/mehadihasan1998")
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M8sXCwbZCftwqDcIX1epSksN9-ZL62L0/view?usp=sharing](https://drive.google.com/file/d/1M8sXCwbZCftwqDcIX1epSksN9-ZL62L0/view?usp=sharing)
 
