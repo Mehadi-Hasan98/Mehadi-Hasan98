@@ -66,7 +66,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehadi-hasan98&theme=synthwave" alt="mehadi-hasan98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehadi-hasan98&theme=highcontrast" alt="mehadi-hasan98" /></p>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mehadi-Hasan98)  
