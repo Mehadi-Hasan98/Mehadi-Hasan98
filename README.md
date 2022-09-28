@@ -3,7 +3,6 @@
 </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehadi-hasan98&label=Profile%20views&color=0e75b6&style=flat" alt="mehadi-hasan98" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Mehadi Hasan</h1>
@@ -51,6 +50,11 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehadi-hasan98&label=Profile%20views&color=0e75b6&style=flat" alt="mehadi-hasan98" /> </p>
+
+
+</br>
 
 
 
