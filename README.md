@@ -51,7 +51,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   </a>
 </div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mehadi-hasan98&label=Profile%20views&color=0e75b6&style=flat" alt="mehadi-hasan98" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=mehadi-hasan98&label=Profile%20views&color=0e75b6&style=flat" alt="mehadi-hasan98" /> </p>
 
 
 </br>
